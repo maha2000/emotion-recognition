@@ -11,3 +11,5 @@ Project developed by **Akash Saravanan** and **Gurudutt Perichetla** for SVCE In
 Dataset used: [FER-2013](https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge)
 
 Dataset is freely available and the code may be run locally if you have the 'fer2013.csv' file. Feel free to use our work in yours but do credit us ;)
+
+If any of these notebooks are not rendering on github check out this [link](https://nbviewer.jupyter.org/github/maha2000/emotion-recognition/tree/master/)
